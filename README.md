@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Linked List
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
 |  |
