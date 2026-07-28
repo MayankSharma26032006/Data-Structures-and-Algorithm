@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0205-isomorphic-strings) |
 | [1108-defanging-an-ip-address](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3894-traffic-signal-color](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3894-traffic-signal-color) |
