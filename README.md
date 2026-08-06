@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0234-palindrome-linked-list) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0205-isomorphic-strings) |
 | [1108-defanging-an-ip-address](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1832-check-if-the-sentence-is-pangram) |
