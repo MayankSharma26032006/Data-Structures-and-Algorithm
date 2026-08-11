@@ -153,18 +153,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0145-binary-tree-postorder-traversal) |
+| [0938-range-sum-of-bst](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0145-binary-tree-postorder-traversal) |
+| [0938-range-sum-of-bst](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0145-binary-tree-postorder-traversal) |
+| [0938-range-sum-of-bst](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0938-range-sum-of-bst) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -186,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0075-sort-colors) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
