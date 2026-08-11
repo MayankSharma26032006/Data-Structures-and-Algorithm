@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3894-traffic-signal-color](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3894-traffic-signal-color) |
 ## Math
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Bit Manipulation
 |  |
 | ------- |
