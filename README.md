@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0075-sort-colors) |
+| [0347-top-k-frequent-elements](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0594-longest-harmonious-subsequence) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -262,9 +266,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0594-longest-harmonious-subsequence) |
 ## Design
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0303-range-sum-query-immutable) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
