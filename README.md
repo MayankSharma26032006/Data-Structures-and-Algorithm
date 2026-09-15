@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1539-kth-missing-positive-number) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Matrix
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2390-removing-stars-from-a-string](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2390-removing-stars-from-a-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Counting
 |  |
 | ------- |
