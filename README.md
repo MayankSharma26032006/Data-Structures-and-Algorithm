@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0002-add-two-numbers) |
 | [0877-stone-game](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0877-stone-game) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3870-count-commas-in-range](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3870-count-commas-in-range) |
 | [3894-traffic-signal-color](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3894-traffic-signal-color) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2390-removing-stars-from-a-string) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
