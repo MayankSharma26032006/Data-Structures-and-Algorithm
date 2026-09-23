@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0275-h-index-ii) |
 | [0303-range-sum-query-immutable](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
+| [0275-h-index-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0275-h-index-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0713-subarray-product-less-than-k) |
