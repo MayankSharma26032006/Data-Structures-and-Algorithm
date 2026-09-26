@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0905-sort-array-by-parity) |
 | [1004-max-consecutive-ones-iii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1095-find-in-mountain-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1095-find-in-mountain-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1539-kth-missing-positive-number) |
@@ -360,4 +362,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1095-find-in-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
