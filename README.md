@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0199-binary-tree-right-side-view) |
 | [0938-range-sum-of-bst](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0938-range-sum-of-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0199-binary-tree-right-side-view) |
 | [0938-range-sum-of-bst](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0938-range-sum-of-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0199-binary-tree-right-side-view) |
 | [0938-range-sum-of-bst](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0938-range-sum-of-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Dynamic Programming
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0199-binary-tree-right-side-view](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0199-binary-tree-right-side-view) |
 ## Counting Sort
 |  |
 | ------- |
