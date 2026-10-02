@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0234-palindrome-linked-list) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0148-sort-list) |
 | [0274-h-index](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 ## String
@@ -408,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
