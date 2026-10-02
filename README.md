@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0234-palindrome-linked-list) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0025-reverse-nodes-in-k-group) |
+| [0143-reorder-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0234-palindrome-linked-list) |
 ## Array
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0173-binary-search-tree-iterator) |
