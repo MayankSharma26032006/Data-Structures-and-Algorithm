@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0041-first-missing-positive) |
 | [0074-search-a-2d-matrix](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0137-single-number-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0137-single-number-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0260-single-number-iii) |
 | [0645-set-mismatch](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0645-set-mismatch) |
@@ -431,4 +433,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
