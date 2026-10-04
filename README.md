@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0445-add-two-numbers-ii) |
 | [0707-design-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0707-design-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1669-merge-in-between-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0002-add-two-numbers) |
+| [0445-add-two-numbers-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0445-add-two-numbers-ii) |
 | [0877-stone-game](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0877-stone-game) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0445-add-two-numbers-ii) |
 | [0844-backspace-string-compare](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1910-remove-all-occurrences-of-a-substring) |
