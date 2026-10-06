@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0125-valid-palindrome) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0078-subsets) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0877-stone-game) |
@@ -453,4 +457,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0090-subsets-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
