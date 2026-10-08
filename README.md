@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2295-replace-elements-in-an-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2295-replace-elements-in-an-array) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3731-find-missing-elements](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3731-find-missing-elements) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2295-replace-elements-in-an-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2295-replace-elements-in-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3731-find-missing-elements) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0905-sort-array-by-parity) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1539-kth-missing-positive-number) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Matrix
 |  |
 | ------- |
@@ -352,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0781-rabbits-in-forest) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quicksort
 |  |
