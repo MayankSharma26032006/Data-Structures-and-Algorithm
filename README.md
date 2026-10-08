@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0781-rabbits-in-forest) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2295-replace-elements-in-an-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2295-replace-elements-in-an-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3731-find-missing-elements](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3731-find-missing-elements) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2295-replace-elements-in-an-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2295-replace-elements-in-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2295-replace-elements-in-an-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2295-replace-elements-in-an-array) |
 | [2390-removing-stars-from-a-string](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2390-removing-stars-from-a-string) |
 | [3819-rotate-non-negative-elements](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3819-rotate-non-negative-elements) |
 | [3894-traffic-signal-color](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3894-traffic-signal-color) |
