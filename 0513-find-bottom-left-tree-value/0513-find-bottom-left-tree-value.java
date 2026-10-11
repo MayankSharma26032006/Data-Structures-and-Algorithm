@@ -34,8 +34,6 @@ class Solution {
             }
 
         }
-        return ans.get(0);
-        
-        
+        return ans.get(0);      
     }
 }
