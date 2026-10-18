@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3731-find-missing-elements) |
 | [3819-rotate-non-negative-elements](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3819-rotate-non-negative-elements) |
+| [3834-merge-adjacent-equal-elements](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3834-merge-adjacent-equal-elements) |
 | [3843-first-element-with-unique-frequency](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3843-first-element-with-unique-frequency) |
 ## Sorting
 |  |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2295-replace-elements-in-an-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2295-replace-elements-in-an-array) |
 | [2390-removing-stars-from-a-string](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2390-removing-stars-from-a-string) |
 | [3819-rotate-non-negative-elements](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3819-rotate-non-negative-elements) |
+| [3834-merge-adjacent-equal-elements](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3834-merge-adjacent-equal-elements) |
 | [3894-traffic-signal-color](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3894-traffic-signal-color) |
 ## Stack
 |  |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2211-count-collisions-on-a-road) |
 | [2390-removing-stars-from-a-string](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2390-removing-stars-from-a-string) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3834-merge-adjacent-equal-elements](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3834-merge-adjacent-equal-elements) |
 ## Sliding Window
 |  |
 | ------- |
