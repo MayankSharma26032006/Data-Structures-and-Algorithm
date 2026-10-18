@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0137-single-number-ii) |
+| [0204-count-primes](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0002-add-two-numbers) |
+| [0204-count-primes](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0204-count-primes) |
 | [0445-add-two-numbers-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0445-add-two-numbers-ii) |
 | [0781-rabbits-in-forest](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0781-rabbits-in-forest) |
 | [0877-stone-game](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0877-stone-game) |
@@ -499,4 +501,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0678-valid-parenthesis-string) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
