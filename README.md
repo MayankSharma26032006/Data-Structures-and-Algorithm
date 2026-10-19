@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1539-kth-missing-positive-number) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2295-replace-elements-in-an-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2295-replace-elements-in-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0692-top-k-frequent-words) |
 | [0905-sort-array-by-parity](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0905-sort-array-by-parity) |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
