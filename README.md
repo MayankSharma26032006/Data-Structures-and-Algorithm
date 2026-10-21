@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0513-find-bottom-left-tree-value) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0938-range-sum-of-bst) |
+| [1609-even-odd-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1609-even-odd-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0513-find-bottom-left-tree-value) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0938-range-sum-of-bst) |
+| [1609-even-odd-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1609-even-odd-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Dynamic Programming
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0513-find-bottom-left-tree-value) |
+| [1609-even-odd-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1609-even-odd-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Counting Sort
 |  |
