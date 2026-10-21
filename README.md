@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1609-even-odd-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1609-even-odd-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0938-range-sum-of-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1609-even-odd-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1609-even-odd-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
