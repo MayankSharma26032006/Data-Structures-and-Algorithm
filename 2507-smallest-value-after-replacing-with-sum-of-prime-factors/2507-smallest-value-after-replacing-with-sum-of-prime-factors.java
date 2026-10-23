@@ -10,6 +10,7 @@ class Solution {
             }
             if(sum == n) return n;
             n = sum;
+            
         }
     }
 }
