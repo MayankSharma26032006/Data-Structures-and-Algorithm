@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0692-top-k-frequent-words) |
 | [0844-backspace-string-compare](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0925-long-pressed-name) |
 | [1108-defanging-an-ip-address](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2211-count-collisions-on-a-road](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2211-count-collisions-on-a-road) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0680-valid-palindrome-ii) |
 | [0781-rabbits-in-forest](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0781-rabbits-in-forest) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Enumeration
 |  |
 | ------- |
