@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0692-top-k-frequent-words) |
 | [0781-rabbits-in-forest](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0781-rabbits-in-forest) |
 | [0904-fruit-into-baskets](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0904-fruit-into-baskets) |
+| [1657-determine-if-two-strings-are-close](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1657-determine-if-two-strings-are-close) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2295-replace-elements-in-an-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2295-replace-elements-in-an-array) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0692-top-k-frequent-words) |
 | [0905-sort-array-by-parity](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0905-sort-array-by-parity) |
+| [1657-determine-if-two-strings-are-close](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1657-determine-if-two-strings-are-close) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0925-long-pressed-name) |
 | [1108-defanging-an-ip-address](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1657-determine-if-two-strings-are-close](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0692-top-k-frequent-words) |
+| [1657-determine-if-two-strings-are-close](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1657-determine-if-two-strings-are-close) |
 | [3843-first-element-with-unique-frequency](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3843-first-element-with-unique-frequency) |
 ## Design
 |  |
