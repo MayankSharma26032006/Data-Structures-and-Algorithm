@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0042-trapping-rain-water) |
+| [0057-insert-interval](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0075-sort-colors) |
