@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0445-add-two-numbers-ii) |
 | [0707-design-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0707-design-linked-list) |
 | [0817-linked-list-components](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0817-linked-list-components) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0002-add-two-numbers) |
 | [0204-count-primes](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0204-count-primes) |
+| [0382-linked-list-random-node](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0445-add-two-numbers-ii) |
 | [0650-2-keys-keyboard](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0650-2-keys-keyboard) |
 | [0781-rabbits-in-forest](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0781-rabbits-in-forest) |
@@ -605,4 +607,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
