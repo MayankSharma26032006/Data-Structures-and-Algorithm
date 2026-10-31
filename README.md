@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0445-add-two-numbers-ii) |
+| [0622-design-circular-queue](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0707-design-linked-list) |
 | [0817-linked-list-components](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0817-linked-list-components) |
 | [1669-merge-in-between-linked-lists](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1669-merge-in-between-linked-lists) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0594-longest-harmonious-subsequence) |
+| [0622-design-circular-queue](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0692-top-k-frequent-words) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0173-binary-search-tree-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0303-range-sum-query-immutable) |
+| [0622-design-circular-queue](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0622-design-circular-queue) |
 | [0677-map-sum-pairs](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0677-map-sum-pairs) |
 | [0707-design-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0707-design-linked-list) |
 | [1476-subrectangle-queries](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1476-subrectangle-queries) |
@@ -622,4 +625,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0382-linked-list-random-node](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0398-random-pick-index) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
