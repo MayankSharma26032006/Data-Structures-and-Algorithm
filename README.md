@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0398-random-pick-index](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0398-random-pick-index) |
 | [0424-longest-repeating-character-replacement](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0002-add-two-numbers) |
 | [0204-count-primes](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0204-count-primes) |
 | [0382-linked-list-random-node](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0398-random-pick-index) |
 | [0445-add-two-numbers-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0445-add-two-numbers-ii) |
 | [0650-2-keys-keyboard](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0650-2-keys-keyboard) |
 | [0781-rabbits-in-forest](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0781-rabbits-in-forest) |
@@ -614,8 +616,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0398-random-pick-index) |
 ## Randomized
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
