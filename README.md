@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0905-sort-array-by-parity) |
 | [0925-long-pressed-name](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0925-long-pressed-name) |
 | [1768-merge-strings-alternately](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1768-merge-strings-alternately) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2211-count-collisions-on-a-road](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2211-count-collisions-on-a-road) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2211-count-collisions-on-a-road](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2211-count-collisions-on-a-road) |
 | [2390-removing-stars-from-a-string](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2390-removing-stars-from-a-string) |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0680-valid-palindrome-ii) |
 | [0781-rabbits-in-forest](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0781-rabbits-in-forest) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -589,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Enumeration
 |  |
 | ------- |
