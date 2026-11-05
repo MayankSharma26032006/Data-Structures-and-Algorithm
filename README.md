@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1539-kth-missing-positive-number) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0692-top-k-frequent-words) |
 | [0905-sort-array-by-parity](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0905-sort-array-by-parity) |
 | [1657-determine-if-two-strings-are-close](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1657-determine-if-two-strings-are-close) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## String
 |  |
 | ------- |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2211-count-collisions-on-a-road](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2211-count-collisions-on-a-road) |
@@ -517,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0692-top-k-frequent-words) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -527,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Trie
 |  |
 | ------- |
