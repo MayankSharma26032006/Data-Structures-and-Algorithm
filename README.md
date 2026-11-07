@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0735-asteroid-collision) |
 | [0781-rabbits-in-forest](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0781-rabbits-in-forest) |
 | [0817-linked-list-components](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0817-linked-list-components) |
+| [0861-score-after-flipping-matrix](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0861-score-after-flipping-matrix) |
 | [0875-koko-eating-bananas](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0904-fruit-into-baskets) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
+| [0861-score-after-flipping-matrix](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0861-score-after-flipping-matrix) |
 | [1476-subrectangle-queries](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1476-subrectangle-queries) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2326-spiral-matrix-iv](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2326-spiral-matrix-iv) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0260-single-number-iii) |
 | [0645-set-mismatch](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0645-set-mismatch) |
+| [0861-score-after-flipping-matrix](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0861-score-after-flipping-matrix) |
 ## Tree
 |  |
 | ------- |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0680-valid-palindrome-ii) |
 | [0781-rabbits-in-forest](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0781-rabbits-in-forest) |
+| [0861-score-after-flipping-matrix](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0861-score-after-flipping-matrix) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
