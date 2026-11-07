@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0503-next-greater-element-ii) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0594-longest-harmonious-subsequence) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0275-h-index-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0875-koko-eating-bananas) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0861-score-after-flipping-matrix](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0861-score-after-flipping-matrix) |
 | [1476-subrectangle-queries](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1476-subrectangle-queries) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -527,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0692-top-k-frequent-words) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
