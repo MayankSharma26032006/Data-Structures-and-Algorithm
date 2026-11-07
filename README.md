@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0503-next-greater-element-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0445-add-two-numbers-ii) |
+| [0503-next-greater-element-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0844-backspace-string-compare) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0503-next-greater-element-ii) |
 ## Union-Find
 |  |
 | ------- |
