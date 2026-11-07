@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0204-count-primes) |
 | [0382-linked-list-random-node](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0398-random-pick-index) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0392-is-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0650-2-keys-keyboard) |
@@ -663,4 +665,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0622-design-circular-queue](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0641-design-circular-deque) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
