@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2326-spiral-matrix-iv) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-subrectangle-queries](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1476-subrectangle-queries) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2326-spiral-matrix-iv](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2326-spiral-matrix-iv) |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 ## Divide and Conquer
 |  |
 | ------- |
