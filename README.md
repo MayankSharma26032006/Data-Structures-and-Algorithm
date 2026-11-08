@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0739-daily-temperatures) |
 | [0781-rabbits-in-forest](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0781-rabbits-in-forest) |
 | [0817-linked-list-components](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0817-linked-list-components) |
 | [0861-score-after-flipping-matrix](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0861-score-after-flipping-matrix) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1441-build-an-array-with-stack-operations) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0456-132-pattern](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0739-daily-temperatures) |
 ## Union-Find
 |  |
 | ------- |
