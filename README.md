@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0692-top-k-frequent-words) |
 | [0781-rabbits-in-forest](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0781-rabbits-in-forest) |
 | [0817-linked-list-components](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0817-linked-list-components) |
+| [0895-maximum-frequency-stack](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0895-maximum-frequency-stack) |
 | [0904-fruit-into-baskets](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0904-fruit-into-baskets) |
 | [1657-determine-if-two-strings-are-close](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1657-determine-if-two-strings-are-close) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0844-backspace-string-compare) |
+| [0895-maximum-frequency-stack](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0895-maximum-frequency-stack) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0641-design-circular-deque) |
 | [0677-map-sum-pairs](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0677-map-sum-pairs) |
 | [0707-design-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0707-design-linked-list) |
+| [0895-maximum-frequency-stack](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0895-maximum-frequency-stack) |
 | [1476-subrectangle-queries](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1476-subrectangle-queries) |
 ## Heap (Priority Queue)
 |  |
@@ -688,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0456-132-pattern) |
+| [0895-maximum-frequency-stack](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0895-maximum-frequency-stack) |
 ## Cartesian Tree
 |  |
 | ------- |
