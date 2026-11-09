@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0877-stone-game) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -664,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0204-count-primes) |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 ## Number Theory
 |  |
 | ------- |
