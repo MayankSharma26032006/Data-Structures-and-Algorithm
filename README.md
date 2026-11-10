@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0707-design-linked-list) |
 | [0817-linked-list-components](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0817-linked-list-components) |
+| [1019-next-greater-node-in-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1019-next-greater-node-in-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1669-merge-in-between-linked-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0962-maximum-width-ramp) |
 | [1004-max-consecutive-ones-iii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1019-next-greater-node-in-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1019-next-greater-node-in-linked-list) |
 | [1095-find-in-mountain-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-maximum-frequency-stack](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0895-maximum-frequency-stack) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0962-maximum-width-ramp](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0962-maximum-width-ramp) |
+| [1019-next-greater-node-in-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1019-next-greater-node-in-linked-list) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -658,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0739-daily-temperatures) |
 | [0962-maximum-width-ramp](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0962-maximum-width-ramp) |
+| [1019-next-greater-node-in-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1019-next-greater-node-in-linked-list) |
 ## Union-Find
 |  |
 | ------- |
