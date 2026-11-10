@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0392-is-subsequence) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0680-valid-palindrome-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0769-max-chunks-to-make-sorted) |
