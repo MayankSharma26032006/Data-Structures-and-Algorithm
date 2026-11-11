@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0938-range-sum-of-bst) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1609-even-odd-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0938-range-sum-of-bst) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0938-range-sum-of-bst) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1609-even-odd-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0877-stone-game) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Game Theory
@@ -631,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0687-longest-univalue-path](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0687-longest-univalue-path) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Interactive
 |  |
 | ------- |
