@@ -1,7 +1,6 @@
 class Solution {
     public String strWithout3a3b(int a, int b) {
         StringBuilder sb = new StringBuilder();
-
         while(a > 0 || b > 0) {
             int n = sb.length();
             if(n >= 2 && sb.charAt(n-1) == 'a' && sb.charAt(n-2) == 'a') {
