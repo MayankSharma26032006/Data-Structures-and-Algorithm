@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0275-h-index-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0137-single-number-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0260-single-number-iii) |
 | [0397-integer-replacement](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0397-integer-replacement) |
 | [0645-set-mismatch](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0645-set-mismatch) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0513-find-bottom-left-tree-value) |
 | [0654-maximum-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0654-maximum-binary-tree) |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0513-find-bottom-left-tree-value) |
 | [0654-maximum-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0654-maximum-binary-tree) |
