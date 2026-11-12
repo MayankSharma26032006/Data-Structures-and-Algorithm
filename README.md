@@ -445,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0513-find-bottom-left-tree-value) |
 | [0654-maximum-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0654-maximum-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0687-longest-univalue-path) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0513-find-bottom-left-tree-value) |
 | [0654-maximum-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0654-maximum-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0687-longest-univalue-path) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0173-binary-search-tree-iterator) |
+| [0450-delete-node-in-a-bst](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0938-range-sum-of-bst) |
 ## Prefix Sum
