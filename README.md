@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2938-separate-black-and-white-balls](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2938-separate-black-and-white-balls) |
 ## Recursion
 |  |
 | ------- |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2390-removing-stars-from-a-string](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2390-removing-stars-from-a-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
+| [2938-separate-black-and-white-balls](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2938-separate-black-and-white-balls) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2938-separate-black-and-white-balls](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2938-separate-black-and-white-balls) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quicksort
