@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3731-find-missing-elements](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3731-find-missing-elements) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3843-first-element-with-unique-frequency](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3843-first-element-with-unique-frequency) |
 ## Linked List
 |  |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3894-traffic-signal-color](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3894-traffic-signal-color) |
 ## Math
 |  |
