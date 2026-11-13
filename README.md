@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0392-is-subsequence) |
+| [0556-next-greater-element-iii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0844-backspace-string-compare) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
+| [0556-next-greater-element-iii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0567-permutation-in-string) |
 | [0677-map-sum-pairs](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0677-map-sum-pairs) |
 | [0678-valid-parenthesis-string](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0678-valid-parenthesis-string) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0398-random-pick-index) |
 | [0445-add-two-numbers-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0445-add-two-numbers-ii) |
+| [0556-next-greater-element-iii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0556-next-greater-element-iii) |
 | [0650-2-keys-keyboard](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0650-2-keys-keyboard) |
 | [0781-rabbits-in-forest](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0781-rabbits-in-forest) |
 | [0877-stone-game](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0877-stone-game) |
