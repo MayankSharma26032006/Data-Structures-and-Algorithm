@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0078-subsets) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
