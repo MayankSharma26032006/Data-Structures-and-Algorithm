@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0204-count-primes) |
 | [0382-linked-list-random-node](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0382-linked-list-random-node) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -802,4 +804,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0654-maximum-binary-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
