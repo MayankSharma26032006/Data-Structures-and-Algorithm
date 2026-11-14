@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2906-construct-product-matrix](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2906-construct-product-matrix) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-subrectangle-queries](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1476-subrectangle-queries) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2326-spiral-matrix-iv](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2326-spiral-matrix-iv) |
+| [2906-construct-product-matrix](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2906-construct-product-matrix) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 ## Divide and Conquer
 |  |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2906-construct-product-matrix](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2906-construct-product-matrix) |
 ## Counting
 |  |
 | ------- |
