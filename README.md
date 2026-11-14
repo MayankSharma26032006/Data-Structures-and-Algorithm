@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2295-replace-elements-in-an-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2295-replace-elements-in-an-array) |
+| [2364-count-number-of-bad-pairs](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2364-count-number-of-bad-pairs) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2295-replace-elements-in-an-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2295-replace-elements-in-an-array) |
 | [2326-spiral-matrix-iv](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2326-spiral-matrix-iv) |
+| [2364-count-number-of-bad-pairs](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2364-count-number-of-bad-pairs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
+| [2364-count-number-of-bad-pairs](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2364-count-number-of-bad-pairs) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -618,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0767-reorganize-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1657-determine-if-two-strings-are-close) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2364-count-number-of-bad-pairs](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2364-count-number-of-bad-pairs) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3843-first-element-with-unique-frequency](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3843-first-element-with-unique-frequency) |
 ## Design
