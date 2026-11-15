@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2326-spiral-matrix-iv) |
 | [2364-count-number-of-bad-pairs](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2364-count-number-of-bad-pairs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2906-construct-product-matrix](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2906-construct-product-matrix) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-subrectangle-queries](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1476-subrectangle-queries) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2326-spiral-matrix-iv](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2326-spiral-matrix-iv) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2906-construct-product-matrix](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2906-construct-product-matrix) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 ## Divide and Conquer
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Game Theory
 |  |
 | ------- |
