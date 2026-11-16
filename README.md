@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-count-number-of-bad-pairs](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2364-count-number-of-bad-pairs) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3021-alice-and-bob-playing-flower-game](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3870-count-commas-in-range) |
