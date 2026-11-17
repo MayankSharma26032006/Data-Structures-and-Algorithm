@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2326-spiral-matrix-iv](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2326-spiral-matrix-iv) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2364-count-number-of-bad-pairs](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2364-count-number-of-bad-pairs) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -776,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0204-count-primes) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Primality Test
 |  |
 | ------- |
