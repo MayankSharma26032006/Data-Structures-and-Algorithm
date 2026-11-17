@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0654-maximum-binary-tree) |
 | [0692-top-k-frequent-words](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0713-subarray-product-less-than-k) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0769-max-chunks-to-make-sorted) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0397-integer-replacement) |
 | [0650-2-keys-keyboard](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0877-stone-game) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0397-integer-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0680-valid-palindrome-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0767-reorganize-string](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0767-reorganize-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0769-max-chunks-to-make-sorted) |
 | [0781-rabbits-in-forest](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0781-rabbits-in-forest) |
