@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2256-minimum-average-difference](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2256-minimum-average-difference) |
+| [2270-number-of-ways-to-split-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2270-number-of-ways-to-split-array) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2295-replace-elements-in-an-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2295-replace-elements-in-an-array) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2256-minimum-average-difference](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2256-minimum-average-difference) |
+| [2270-number-of-ways-to-split-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2270-number-of-ways-to-split-array) |
 | [2906-construct-product-matrix](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2906-construct-product-matrix) |
 ## Counting
 |  |
