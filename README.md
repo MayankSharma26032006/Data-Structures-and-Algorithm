@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0767-reorganize-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0769-max-chunks-to-make-sorted) |
 | [0905-sort-array-by-parity](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0905-sort-array-by-parity) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1657-determine-if-two-strings-are-close](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1657-determine-if-two-strings-are-close) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0938-range-sum-of-bst) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1609-even-odd-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0938-range-sum-of-bst) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -560,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0938-range-sum-of-bst) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1609-even-odd-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -637,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0938-range-sum-of-bst) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Prefix Sum
 |  |
 | ------- |
