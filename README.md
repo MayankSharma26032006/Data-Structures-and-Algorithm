@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0905-sort-array-by-parity) |
+| [0946-validate-stack-sequences](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0946-validate-stack-sequences) |
 | [0962-maximum-width-ramp](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0962-maximum-width-ramp) |
 | [1004-max-consecutive-ones-iii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0059-spiral-matrix-ii) |
 | [0735-asteroid-collision](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0844-backspace-string-compare) |
+| [0946-validate-stack-sequences](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0844-backspace-string-compare) |
 | [0895-maximum-frequency-stack](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0895-maximum-frequency-stack) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0946-validate-stack-sequences](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0946-validate-stack-sequences) |
 | [0962-maximum-width-ramp](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0962-maximum-width-ramp) |
 | [1019-next-greater-node-in-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1019-next-greater-node-in-linked-list) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1381-design-a-stack-with-increment-operation) |
