@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0224-basic-calculator) |
 | [0392-is-subsequence](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0224-basic-calculator) |
 | [0382-linked-list-random-node](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0398-random-pick-index) |
 | [0445-add-two-numbers-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0445-add-two-numbers-ii) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0456-132-pattern) |
