@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0645-set-mismatch) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0677-map-sum-pairs](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0767-reorganize-string) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0556-next-greater-element-iii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0567-permutation-in-string) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0905-sort-array-by-parity) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0513-find-bottom-left-tree-value) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0654-maximum-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0687-longest-univalue-path) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0513-find-bottom-left-tree-value) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0687-longest-univalue-path](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0687-longest-univalue-path) |
 | [0938-range-sum-of-bst](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0938-range-sum-of-bst) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -565,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0513-find-bottom-left-tree-value) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0654-maximum-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0687-longest-univalue-path) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -648,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0173-binary-search-tree-iterator) |
 | [0450-delete-node-in-a-bst](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0938-range-sum-of-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -728,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0513-find-bottom-left-tree-value) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1609-even-odd-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1609-even-odd-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Counting Sort
