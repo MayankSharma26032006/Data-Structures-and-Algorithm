@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1352-product-of-the-last-k-numbers) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1441-build-an-array-with-stack-operations) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0650-2-keys-keyboard) |
 | [0781-rabbits-in-forest](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0781-rabbits-in-forest) |
 | [0877-stone-game](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0877-stone-game) |
+| [1352-product-of-the-last-k-numbers](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
@@ -676,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -705,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0677-map-sum-pairs) |
 | [0707-design-linked-list](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0707-design-linked-list) |
 | [0895-maximum-frequency-stack](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0895-maximum-frequency-stack) |
+| [1352-product-of-the-last-k-numbers](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1352-product-of-the-last-k-numbers) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1476-subrectangle-queries](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1476-subrectangle-queries) |
 ## Heap (Priority Queue)
@@ -876,4 +880,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/0062-unique-paths) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/MayankSharma26032006/Data-Structures-and-Algorithm/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
